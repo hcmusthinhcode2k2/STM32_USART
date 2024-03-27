@@ -1,0 +1,4 @@
+cortex_m3.pbi: E:\STM32_DMA\source\cortex_m3.c \
+  E:\STM32_IR_TRACKING_PROJECT\include\cortex_m3.h \
+  E:\STM32_IR_TRACKING_PROJECT\include\common.h \
+  E:\STM32_IR_TRACKING_PROJECT\include\define.h

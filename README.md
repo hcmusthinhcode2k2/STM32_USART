@@ -1,2 +1,2 @@
-# STM32_USART
- demo về uart
+# STM32_DMA
+ sử dụng DMA kết hợp với stm32
