@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "E:\STM32_DMA\settings\capture_ir.Debug.general.xcl" --backend -f "E:\STM32_DMA\settings\capture_ir.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "E:\STM32_USART\settings\capture_ir.Debug.general.xcl" --backend -f "E:\STM32_USART\settings\capture_ir.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "E:\STM32_DMA\settings\capture_ir.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\STM32_DMA\settings\capture_ir.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "E:\STM32_USART\settings\capture_ir.Debug.general.xcl" --debug_file=$debugfile --backend -f "E:\STM32_USART\settings\capture_ir.Debug.driver.xcl" 
 }

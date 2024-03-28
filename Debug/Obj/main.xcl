@@ -1,14 +1,14 @@
-"E:\STM32_DMA\source\main.c"
+"E:\STM32_USART\source\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-E:\STM32_DMA\Debug\Obj\main.pbi.dep
+E:\STM32_USART\Debug\Obj\main.pbi.dep
 -o
 main.pbi
 -I
-E:\STM32_DMA\source
+E:\STM32_USART\source
 -I
 E:\STM32_IR_TRACKING_PROJECT\include
 -I

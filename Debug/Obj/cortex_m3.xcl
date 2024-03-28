@@ -1,14 +1,14 @@
-"E:\STM32_DMA\source\cortex_m3.c"
+"E:\STM32_USART\source\cortex_m3.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-E:\STM32_DMA\Debug\Obj\cortex_m3.pbi.dep
+E:\STM32_USART\Debug\Obj\cortex_m3.pbi.dep
 -o
 cortex_m3.pbi
 -I
-E:\STM32_DMA\source
+E:\STM32_USART\source
 -I
 E:\STM32_IR_TRACKING_PROJECT\include
 -I
